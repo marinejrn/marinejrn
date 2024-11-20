@@ -10,7 +10,7 @@
 
 - Intérêt particulier pour les neurosciences et la biotechnologie (cours suivis à Séoul 🇰🇷).
 - Expérience en tant que Data Scientist chez Deloitte (développement d'une plateforme d’audit innovante).
-- En plein apprentissage des technologies cloud (AWS, Azure) et de la programmation Python.
+- En plein apprentissage des technologies cloud (AWS, Azure).
 - Actuellement en train de coder mon portfolio en ligne et mon propre Spotify Recap via les API Spotify.
  
 ## 🔧 Compétences techniques
@@ -18,7 +18,6 @@
 - Langages : Python, HTML/CSS, JavaScript, Node.js, C++, C#, MySQL
 - Outils de Data Science : Power BI, QlikSense, Excel avancé, QlikView
 - Frameworks et technologies : APIs, Visual Studio
-- Cloud : AWS, Azure (en apprentissage)
   
 ## 🌟 Projets récents
 
