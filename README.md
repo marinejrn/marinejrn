@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Marine!
 
-🎓 Étudiante en M1 Santé Biotech & Data Science
+🎓 Étudiante en M1 Santé Biotech & Data Science à l'ESILV (Ecole Superieur Ingénieur Leonard de Vinci)
 
 📚 Double diplôme en management à l'EMLV
 
@@ -8,10 +8,10 @@
 
 ## 🚀 À propos de moi
 
-- 🧠 Intérêt particulier pour les neurosciences et la biotechnologie (cours suivis à Séoul 🇰🇷).
-- 👩‍💻 Expérience en tant que Data Scientist chez Deloitte (développement d'une plateforme d’audit innovante).
-- 🌐 En plein apprentissage des technologies cloud (AWS, Azure) et de la programmation Python.
-- 🖥️ Actuellement en train de coder mon portfolio en ligne et mon propre Spotify Recap via les API Spotify.
+- Intérêt particulier pour les neurosciences et la biotechnologie (cours suivis à Séoul 🇰🇷).
+- Expérience en tant que Data Scientist chez Deloitte (développement d'une plateforme d’audit innovante).
+- En plein apprentissage des technologies cloud (AWS, Azure) et de la programmation Python.
+- Actuellement en train de coder mon portfolio en ligne et mon propre Spotify Recap via les API Spotify.
  
 ## 🔧 Compétences techniques
 
@@ -22,8 +22,9 @@
   
 ## 🌟 Projets récents
 
-- 🎨 Portfolio en ligne : Création d’un site interactif pour présenter mes compétences et projets.
-- 🎶 Spotify Recap : Analyse et visualisation personnalisée de mes habitudes musicales avec l’API Spotify (en cours)
+- 🎨 Portfolio en ligne : Création d’un site interactif pour présenter mes compétences et projets (HTML/CSS/Js).
+- 💐 Interface Vendeur/Client pour un fleuriste : réalisation d'une base de données (MySQL/C#)
+- 🚚 Interface pour un système de livraison : base de données sur les clients / marchandises (C++)
 - 📊 Analyse de données en Santé Biotech : Prédiction de le présence d'une maladie cardiaque grâce au ML.
   
 ## 📌 Actuellement...
@@ -34,7 +35,7 @@
 ## 🌐 Comment me trouver
 - LinkedIn : [Marine's Profile](https://www.linkedin.com/in/marine-journu/)
 - Portfolio en ligne (à venir) : Lien vers le site
-- Email : marine.email@example.com
+- Email : marine.journu@edu.devinci.fr
   
 ### ✨ Toujours prête à collaborer sur des projets innovants ou à discuter de nouvelles idées !
 <!---
