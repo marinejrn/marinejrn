@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Marine!
+# 👋 Bonjour, je suis Marine Journu !
 
 🎓 Étudiante en M1 Santé Biotech & Data Science à l'ESILV (Ecole Superieur Ingénieur Leonard de Vinci)
 
