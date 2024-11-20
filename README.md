@@ -21,7 +21,7 @@
 ## 🌟 Projets récents
 
 - 🎨 Portfolio en ligne : Création d’un site interactif pour présenter mes compétences et projets (HTML/CSS/Js).
-- 💐 Interface Vendeur/Client pour un fleuriste : réalisation d'une base de données (MySQL/C#)
+- 💐 [Interface Vendeur/Client pour un fleuriste ](https://github.com/marinejrn/BDD-Fleuriste): réalisation d'une base de données (MySQL/C#)
 - 🚚 Interface pour un système de livraison : base de données sur les clients / marchandises (C++)
 - 📊 Heart Disease : Prédiction de le présence d'une maladie cardiaque grâce au ML.
 - 🚢 Titanic Survival Prediction : Prédiction de la survie des passagers du Titanic.
