@@ -10,14 +10,13 @@
 
 - Intérêt particulier pour les neurosciences et la biotechnologie (cours suivis à Séoul 🇰🇷).
 - Expérience en tant que Data Scientist chez Deloitte (développement d'une plateforme d’audit innovante).
-- En plein apprentissage des technologies cloud (AWS, Azure).
 - Actuellement en train de coder mon portfolio en ligne et mon propre Spotify Recap via les API Spotify.
  
 ## 🔧 Compétences techniques
 
-- Langages : Python, HTML/CSS, JavaScript, Node.js, C++, C#, MySQL
+- Langages : Python, HTML/CSS, JavaScript, Node.js, C++, C#, MySQL, VBA
 - Outils de Data Science : Power BI, QlikSense, Excel avancé, QlikView
-- Frameworks et technologies : APIs, Visual Studio
+- Frameworks et technologies : APIs, VSCode, Jupyter Notebook, Github
   
 ## 🌟 Projets récents
 
@@ -28,9 +27,9 @@
 - 🚢 Titanic Survival Prediction : Prédiction de la survie des passagers du Titanic.
   
 ## 📌 Actuellement...
-- 💼 Recherche un stage de 16 à 20 semaines en Data Science ou Santé Biotech (disponible à partir d’avril 2025).
-- 📚 Formation sur le machine learning, les pipelines de données, et l'utilisation des API.
-- 🚀 Développement de compétences en data visualization et optimisation d'algorithmes.
+- Recherche un stage de 16 à 20 semaines en Data Science ou Santé Biotech (disponible à partir d’avril 2025).
+- Formation sur le machine learning, les pipelines de données, et l'utilisation des API (formation Kaggle et Linkedin Learning).
+- Développement de compétences en data visualization et optimisation d'algorithmes.
   
 ## 🌐 Comment me trouver
 - LinkedIn : [Marine's Profile](https://www.linkedin.com/in/marine-journu/)
