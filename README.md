@@ -25,7 +25,9 @@
 - 🎨 Portfolio en ligne : Création d’un site interactif pour présenter mes compétences et projets (HTML/CSS/Js).
 - 💐 Interface Vendeur/Client pour un fleuriste : réalisation d'une base de données (MySQL/C#)
 - 🚚 Interface pour un système de livraison : base de données sur les clients / marchandises (C++)
-- 📊 Analyse de données en Santé Biotech : Prédiction de le présence d'une maladie cardiaque grâce au ML.
+### Kaggle
+- 📊 Heart Disease : Prédiction de le présence d'une maladie cardiaque grâce au ML.
+- 🚢 Titanic Survival Prediction : Prédiction de la survie des passagers du Titanic.
   
 ## 📌 Actuellement...
 - 💼 Recherche un stage de 16 à 20 semaines en Data Science ou Santé Biotech (disponible à partir d’avril 2025).
