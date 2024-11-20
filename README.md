@@ -33,7 +33,7 @@
   
 ## 🌐 Comment me trouver
 - LinkedIn : [Marine's Profile](https://www.linkedin.com/in/marine-journu/)
-- Portfolio en ligne (à venir) : Lien vers le site
+- Portfolio en ligne : [Lien vers le site](https://marine-journu.netlify.app)
 - Email : marine.journu@edu.devinci.fr
   
 ### ✨ Toujours prête à collaborer sur des projets innovants ou à discuter de nouvelles idées !
