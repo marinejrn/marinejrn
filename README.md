@@ -21,7 +21,7 @@
 ## 🌟 Projets récents
 
 - 🎨 Portfolio en ligne : Création d’un site interactif pour présenter mes compétences et projets (HTML/CSS/Js).
-- 🎧 [Spotify Top 20 musiques](https://github.com/marinejrn/Spotify-Dashboard) : affichage des 20 musiques les plus écoutées sur Spotify (API/Python)
+- 🎧 [Spotify Top 20 musiques](https://github.com/marinejrn/Spotify_Dashboard) : affichage des 20 musiques les plus écoutées sur Spotify (API/Python)
 - 💐 [Interface Vendeur/Client pour un fleuriste ](https://github.com/marinejrn/BDD-Fleuriste) : réalisation d'une base de données (MySQL/C#)
 - 🚚 [Interface pour un système de livraison](https://github.com/marinejrn/BDD-Livraison) : base de données sur les clients / marchandises (C++)
 - 📊 [Heart Disease Prediction](https://github.com/marinejrn/Heart-Disease-Prediction) : Prédiction de le présence d'une maladie cardiaque grâce au ML
