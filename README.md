@@ -20,7 +20,7 @@
   
 ## 🌟 Projets récents
 
-- 🎨 Portfolio en ligne : Création d’un site interactif pour présenter mes compétences et projets (HTML/CSS/Js).
+- 🎨 [Portfolio en ligne](https://marinejournu.netlify.app/fr/marine-journu): Création d’un site interactif pour présenter mes compétences et projets (HTML/CSS/Js).
 - 🛹 [Supply Chain : MRP Interface](https://github.com/marinejrn/MRP-Interface) : système de Planification des Besoins en Matériel (Python/HTML/CSS) 
 - 🎧 [Spotify Top 20 musiques](https://github.com/marinejrn/Spotify_Dashboard) : affichage des 20 musiques les plus écoutées sur Spotify (API/Python)
 - 💐 [Interface Vendeur/Client pour un fleuriste ](https://github.com/marinejrn/BDD-Fleuriste) : réalisation d'une base de données (MySQL/C#)
