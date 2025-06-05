@@ -29,7 +29,7 @@
 - 🚢 [Titanic Survival Prediction](https://github.com/marinejrn/Titanic-Survival-Prediction) : prédiction de la survie des passagers du Titanic (Python)
   
 ## 📌 Actuellement...
-- Recherche un stage de 16 à 20 semaines en Data Science ou Santé Biotech (disponible à partir d’avril 2025).
+- Stagiaire DATA IA et Web Developpement chez BOARD4CARE (développement d'une plateforme d'aide à la décision pour les oncologues).
 - Formation sur le machine learning, les pipelines de données, et l'utilisation des API (formation Kaggle et Linkedin Learning).
 - Développement de compétences en data visualization et optimisation d'algorithmes.
   
