@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Marine Journu !
 
-🎓 Étudiante en M1 Santé Biotech & Data Science à l'ESILV (Ecole Superieur Ingénieur Leonard de Vinci)
+🎓 Étudiante en M2 Santé Biotech & Data Science à l'ESILV (Ecole Superieur Ingénieur Leonard de Vinci)
 
 📚 Double diplôme en management à l'EMLV
 
